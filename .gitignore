@@ -1,0 +1,12 @@
+# Ignorar archivos bytecode de Python
+*.pyc
+__pycache__/
+
+# Ignorar el archivo de la base de datos SQLite
+db.sqlite3
+
+# Ignorar archivos de medios (por ejemplo, imágenes, archivos subidos)
+media/
+
+# Ignorar el archivo de variables de entorno local
+.env
